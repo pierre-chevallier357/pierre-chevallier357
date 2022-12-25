@@ -7,7 +7,7 @@
 Web developer at HARDIS GROUP 👨‍💻<br/>
 Computer science student at Université Grenoble Alpes 👨‍🎓<br/>
 Serious, calm and rigourous 😁<br/>
-I like to learn things, help others and office people 🧑‍🏫<br/>
+I like to learn things, help others and lead people 🧑‍🏫<br/>
 Passionate about web development, design, and new technologies 📱
 </p>
 
@@ -19,7 +19,7 @@ Passionate about web development, design, and new technologies 📱
 
 ## My skills 🚀
 
-<b><u>Main tools used :</u></b>
+<b>Main tools used:</b>
 <ul>
   <li>Angular</li>
   <li>Spring Boot</li>
