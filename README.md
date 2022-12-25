@@ -20,7 +20,9 @@ Passionate about web development, design, and new technologies 📱
 ## My skills 🚀
 
 <ul>
-  <b><u>Main tools used :</u></b>
+  <b>
+    <u>Main tools used :</u>
+  </b>
   <li>Angular</li>
   <li>Spring Boot</li>
   <li>React</li>
