@@ -19,6 +19,13 @@ Passionate about web development, design, and new technologies 📱
 
 ## My skills 🚀
 
-<p>
-Main tools used : Angular, Spring Boot, React, Java, SQL, Git, Jira
+<ul>
+  Main tools used :
+  <li>Angular</li>
+  <li>Spring Boot</li>
+  <li>React</li>
+  <li>Java</li>
+  <li>SQL</li>
+  <li>Git</li>
+  <li>Jira</li>
 </p>
