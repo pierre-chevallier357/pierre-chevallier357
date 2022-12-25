@@ -1,6 +1,6 @@
 <h1 align="center">
   <span>Pierre CHEVALLIER</span><br>
-  <span>Web developer 👨‍💻 & student at Université Grenoble Alpes 👨‍🎓</span>
+  <span>👨‍💻 Web developer & student at Université Grenoble Alpes 👨‍🎓</span>
 </h1>
 
 <p align="center">
@@ -19,6 +19,6 @@ Passionate about web development, design, and new technologies 📱
 
 ## My skills 🚀
 
-<p align="center">
-Angular, Spring Boot, React, Java, SQL, Git, Jira
+<p>
+Main tools used : Angular, Spring Boot, React, Java, SQL, Git, Jira
 </p>
