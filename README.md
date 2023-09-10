@@ -1,14 +1,13 @@
 <h1 align="center">
   <span>Pierre CHEVALLIER</span><br>
-  <span>👨‍💻 Web developer & student at Université Grenoble Alpes 👨‍🎓</span>
+  <span>👨‍💻 Software engineer 👨‍💻</span>
 </h1>
 
 <p align="center">
-Web developer at HARDIS GROUP 👨‍💻<br/>
-Computer science student at Université Grenoble Alpes 👨‍🎓<br/>
-Serious, calm and rigourous 😁<br/>
-I like to learn things, help others and lead people 🧑‍🏫<br/>
-Passionate about web development, design, and new technologies 📱<br/>
+Software engineer at Hardis Group 👨‍💻<br/>
+Optimistic, devoted, calm and rigourous 😁<br/>
+I like to learn things, code, and help people 🧑‍🏫<br/>
+Passionate about web development, engineering, design, and new technologies 📱<br/>
 Based in Grenoble, France 📍
 </p>
 
